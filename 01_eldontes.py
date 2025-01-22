@@ -4,7 +4,7 @@ hogy szerepel-e egy bizonyos tulajdonságú elem az adatsorban (itt a listában)
 
 A program azt vizsgálja, hogy van-e hárommal osztható szám a listában.
 '''
-lista = [2, 5, 4, 8, 9, 11, 10, 12]
+lista = [2, 5, 4, 8, 9, 11, 10, 12, 15]
 
 div_by_3 =[]
 
